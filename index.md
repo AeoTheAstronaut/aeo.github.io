@@ -5,7 +5,7 @@ Links:
 
 - [My Branch](https://github.com/hmccree/webscraper_2020/tree/input)
 
-I managed input for this project! These are the sources which aided my work:
+I managed input for this project! First I used an example, which helped me determine which part of the source code to scrape.  Then I consulted the Beautiful Soup documentation after my result was not ideal. My section of the code scrapes text from the site itself and returns as newtext, as defined in the final master folder. Beautiful Soup makes the text pretty. These are the sources which aided my work:
 
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
